@@ -8,6 +8,7 @@ sudo apt-get install python-opencv python-numpy python-scipy
 sudo apt-get install -y openalpr openalpr-daemon openalpr-utils libopenalpr-dev
 
 #GOTO this clone repo folder
+#use python2.x version
 python main.py
 ```
 
